@@ -3,7 +3,7 @@ Volta Engine
 
 # What's in Store for Volta Engine?
 
-Volta will have plenty of features that you would expect from a AAA game engine. The following are the main features I want implemented into Volta. ***Features are in no particular order.**
+Volta will have plenty of features that you would expect from a AAA game engine. The following are the main features I want implemented into Volta. ***Features are in no particular order.***
 
 **Committed features coming to Volta:**
 
@@ -23,5 +23,5 @@ Volta will have plenty of features that you would expect from a AAA game engine.
 
 The answer to that is to learn. If my only intention was to make a game, I would just launch Unity or Unreal and just be a game programmer. I'm interested in creating a framework for programmers and artists to make high fidelity real time applications. I feel that building a game engine from scratch will also make me a stronger software engineer overall. Volta is my passion project and I can't wait to see where it goes. 
 
-#Progress Tracker
+# Progress Tracker
 Coming soon...
