@@ -29,8 +29,8 @@ The answer to that is to learn. If my only intention was to make a game, I would
 
 ***
 
-## Progress Tracker
+## Volta Engine Roadmap
 
-### [Volta Engine Roadmap](https://trello.com/b/ZahBqCVN/volta-engine#)
+### [Progress Tracker](https://trello.com/b/ZahBqCVN/volta-engine#)
 
-***Note: 3D features will be added in the future. I plan on focusing on 2D first.***
+***Note: 3D features will be added in the future. I want to focus on 2D first.***
