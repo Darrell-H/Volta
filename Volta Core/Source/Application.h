@@ -7,7 +7,7 @@ namespace Volta {
 	{
 	public:
 		virtual ~Application();
-
+		static void Initialize();
 		void Run();
 
 	protected:

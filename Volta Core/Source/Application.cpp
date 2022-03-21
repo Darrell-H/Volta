@@ -1,4 +1,6 @@
 #include "Application.h"
+#include "Logger.h"
+#include "vlpch.h"
 
 namespace Volta {
 	
@@ -10,6 +12,11 @@ namespace Volta {
 	Application::~Application()
 	{
 
+	}
+
+	void Application::Initialize()
+	{
+		Logger StartLog;
 	}
 
 	void Application::Run()

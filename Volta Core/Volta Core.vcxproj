@@ -60,6 +60,7 @@
       <PreprocessorDefinitions>VOLTA_EXPORT; VL_PLATFORM_WINDOWS</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
+      <AdditionalIncludeDirectories>$(SolutionDir)Volta Core\vendor\spdlog\include;</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -87,10 +88,13 @@
     <ClInclude Include="Source\Application.h" />
     <ClInclude Include="Source\EntryPoint.h" />
     <ClInclude Include="Source\Export.h" />
+    <ClInclude Include="Source\Logger.h" />
+    <ClInclude Include="Source\vlpch.h" />
     <ClInclude Include="Source\VoltaCore.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source\Application.cpp" />
+    <ClCompile Include="Source\Logger.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
