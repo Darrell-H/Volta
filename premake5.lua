@@ -85,7 +85,7 @@ location "Volta Sandbox"
 	includedirs
 	{
 		"Volta Core/vendor/spdlog/include",
-		"Volta Core/Source"
+		"Volta Core/Source/Core"
 	}
 
 	links
