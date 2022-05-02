@@ -140,6 +140,8 @@
     <ClInclude Include="Source\Core\Logger.h" />
     <ClInclude Include="Source\Core\VoltaCore.h" />
     <ClInclude Include="Source\Core\pch.h" />
+    <ClInclude Include="Source\Events\Event.h" />
+    <ClInclude Include="Source\Events\InputEvents.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source\Core\Application.cpp" />
