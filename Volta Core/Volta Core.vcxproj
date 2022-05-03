@@ -146,6 +146,7 @@
   <ItemGroup>
     <ClCompile Include="Source\Core\Application.cpp" />
     <ClCompile Include="Source\Core\Logger.cpp" />
+    <ClCompile Include="Source\Core\pch.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

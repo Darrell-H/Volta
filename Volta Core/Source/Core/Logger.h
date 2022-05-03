@@ -1,7 +1,7 @@
 #pragma once
 
 #include "Application.h"
-#include "vlpch.h"
+#include "pch.h"
 #include "spdlog/spdlog.h"
 
 namespace Volta {
